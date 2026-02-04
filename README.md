@@ -34,18 +34,9 @@ Asegúrate de tener instalado:
 
 ---
 
-## 📦 Instalación y Configuración
 
-### 1️⃣ Clonar o descargar el repositorio
 
-```bash
-git clone <url-del-repositorio>
-cd examen_final_inca_genesis
-```
-
----
-
-### 2️⃣ Levantar PostgreSQL con Docker Compose
+### 1 Levantar PostgreSQL con Docker Compose
 
 Desde la raíz del proyecto, ejecuta:
 
@@ -81,7 +72,7 @@ docker logs tasks_db
 
 ---
 
-### 3️⃣ Configurar y ejecutar el Backend
+### 2 Configurar y ejecutar el Backend
 
 #### 3.1 Instalar dependencias
 
@@ -142,7 +133,7 @@ El backend estará disponible en: **http://localhost:3000**
 
 ---
 
-### 4️⃣ Configurar y ejecutar el Frontend
+### 3 Configurar y ejecutar el Frontend
 
 Abre una **nueva terminal** (deja el backend corriendo) y desde la raíz del proyecto:
 
@@ -469,9 +460,9 @@ npm start
 
 ## 👤 Autor
 
-**Nombre:** [Tu Nombre Completo]  
-**Carrera:** [Tu Carrera]  
-**Universidad:** [Tu Universidad]  
+**Nombre:** Genesis Inca 
+**Carrera:** Desarrollo 
+**Universidad:** PUCE 
 **Fecha:** Febrero 2026
 
 ---
