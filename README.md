@@ -1,6 +1,6 @@
 # Examen Final - Task Manager CRUD Full-Stack
 
-**Estudiante:** [Tu Nombre Completo]  
+GENESIS RAQUEL INCA VILLACRES  
 **Curso:** Desarrollo Web  
 **Fecha:** Febrero 2026
 
@@ -97,7 +97,7 @@ El archivo `.env` debe contener:
 ```env
 PORT=3000
 DB_HOST=localhost
-DB_PORT=5431
+DB_PORT=5433
 DB_NAME=tasksdb
 DB_USER=admin
 DB_PASSWORD=admin123
